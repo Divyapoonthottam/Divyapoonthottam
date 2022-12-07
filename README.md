@@ -1,1 +1,1 @@
-I am learning software programming and am looking to learn new things every day.
+I am a Software Developer in AntStack Technologies.
